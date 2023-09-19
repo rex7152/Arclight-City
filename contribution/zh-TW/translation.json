@@ -251,7 +251,7 @@
 		"vaultButton": {
 			"title": {
 				"eng": "Vault",
-				"trans": "倉庫"
+				"trans": "保險箱"
 			}
 		}
 	},
@@ -1390,7 +1390,7 @@
 			},
 			"name": {
 				"eng": "Crowded",
-				"trans": "人山人海"
+				"trans": "人多勢眾"
 			}
 		},
 		"expIncrease": {
@@ -5798,7 +5798,7 @@
 		"received": {
 			"title": {
 				"eng": "Received",
-				"trans": "接收到了"
+				"trans": "已收到"
 			}
 		}
 	},
